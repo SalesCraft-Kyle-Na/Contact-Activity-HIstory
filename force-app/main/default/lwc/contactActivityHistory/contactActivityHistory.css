@@ -1,0 +1,11 @@
+.componentBorder {
+    border: 1px #C9C9C9 solid;
+    border-radius:4px;
+}
+
+.datatableCard {
+    border-top: 1px #C9C9C9 solid;
+    margin-top: 0px;
+    min-height: 100px;
+    max-height:150px;
+}
